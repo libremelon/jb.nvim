@@ -76,7 +76,7 @@
             "bg": "#FFFFFF"
           },
           "dark": {
-            "bg": "#393B40"
+            "bg": "#1d1d1d"
           }
         },
         "IconError": {
@@ -136,7 +136,7 @@
             "bg": "#F7F8FA"
           },
           "dark": {
-            "bg": "#393B40"
+            "bg": "#1d1d1d"
           }
         }
       },
@@ -260,7 +260,7 @@
             "fg": "#EBECF0"
           },
           "dark": {
-            "fg": "#393B40"
+            "fg": "#1d1d1d"
           }
         },
         "RowSelected": {
@@ -316,7 +316,7 @@
           },
           "dark": {
             "fg": "#57595F",
-            "bg": "#393B40",
+            "bg": "#1d1d1d",
             "sp": "#5B5D62",
             "underline": true
           }
@@ -510,7 +510,7 @@
         "Guides": {
           "HardWrapGuide": {
             "dark": {
-              "fg": "#393B40"
+              "fg": "#1d1d1d"
             },
             "light": {
               "fg": "#EBECF0"
@@ -967,7 +967,7 @@
           },
           "dark": {
             "fg": "#868991",
-            "bg": "#393B40"
+            "bg": "#1d1d1d"
           }
         },
         "FoldedTextWithHighlighting": null,
@@ -1214,7 +1214,7 @@
           },
           "dark": {
             "fg": "#868A91",
-            "bg": "#393B40"
+            "bg": "#1d1d1d"
           }
         },
         "Parameters": null,
