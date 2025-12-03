@@ -192,7 +192,7 @@
           },
           "dark": {
             "fg": "#1E1F22",
-            "bg": "#2B2D30"
+            "bg": "#212121"
           }
         },
         "Background": {
@@ -200,7 +200,7 @@
             "bg": "#F7F8FA"
           },
           "dark": {
-            "bg": "#2B2D30"
+            "bg": "#212121"
           }
         },
         "Item": {
@@ -218,7 +218,7 @@
             "bg": "#F7F8FA"
           },
           "dark": {
-            "bg": "#2B2D30"
+            "bg": "#212121"
           }
         },
         "BackgroundShowExcluded": {
@@ -242,7 +242,7 @@
             "bg": "#FFFFFF"
           },
           "dark": {
-            "bg": "#2B2D30"
+            "bg": "#212121"
           }
         },
         "Border": {
@@ -290,7 +290,7 @@
           },
           "dark": {
             "fg": "#D8DADE",
-            "bg": "#2B2D30",
+            "bg": "#212121",
             "sp": "#5B5D62",
             "underline": true
           }
@@ -337,7 +337,7 @@
             "fg": "#8E8E8E"
           },
           "dark": {
-            "bg": "#2B2D30",
+            "bg": "#212121",
             "fg": "#575A5F"
           }
         },
@@ -535,7 +535,7 @@
           "MatchedBraceGuide": null,
           "VisualGuides": {
             "dark": {
-              "fg": "#2B2D30"
+              "fg": "#212121"
             },
             "light": {
               "fg": "#DAE6FD"
@@ -864,7 +864,7 @@
             "bg": "#FFFFFF"
           },
           "dark": {
-            "bg": "#2B2D30"
+            "bg": "#212121"
           }
         },
         "Documentation": null,
@@ -1310,7 +1310,7 @@
           "bg": "#F7FAFF"
         },
         "dark": {
-          "bg": "#2B2D30"
+          "bg": "#212121"
         }
       }
     },
@@ -1876,7 +1876,7 @@
         },
         "dark": {
           "fg": "#9A9CA4",
-          "bg": "#2B2D30"
+          "bg": "#212121"
         }
       },
       "Dialog": {
@@ -1887,7 +1887,7 @@
           },
           "dark": {
             "fg": "#dee0e4",
-            "bg": "#2B2D30"
+            "bg": "#212121"
           }
         },
         "Title": "Appearance|Window|Title",
@@ -1899,7 +1899,7 @@
           },
           "dark": {
             "fg": "#DFE1E5",
-            "bg": "#2B2D30",
+            "bg": "#212121",
             "bold": true
           }
         },
@@ -1951,7 +1951,7 @@
             },
             "dark": {
               "fg": "#DBDDE0",
-              "bg": "#2B2D30"
+              "bg": "#212121"
             }
           },
           "Selected": {
@@ -1963,7 +1963,7 @@
             },
             "dark": {
               "fg": "#DBDDE0",
-              "bg": "#2B2D30",
+              "bg": "#212121",
               "underline": true,
               "sp": "#3877E9"
             }
@@ -1977,7 +1977,7 @@
         },
         "dark": {
           "fg": "#dee0e4",
-          "bg": "#2B2D30"
+          "bg": "#212121"
         }
       },
       "DialogWindowDefaultOption": {
@@ -1989,7 +1989,7 @@
         },
         "dark": {
           "bg": "#3b78e9",
-          "sp": "#2B2D30",
+          "sp": "#212121",
           "fg": "#FFFFFF",
           "underline": true
         }
@@ -2001,7 +2001,7 @@
               "bg": "#FFFFFF"
             },
             "dark": {
-              "bg": "#2B2D30"
+              "bg": "#212121"
             }
           },
           "AdditionalInfo": {
@@ -2071,7 +2071,7 @@
         },
         "dark": {
           "fg": "#ced0d5",
-          "bg": "#2b2d30"
+          "bg": "#212121"
         }
       },
       "Completion": {
